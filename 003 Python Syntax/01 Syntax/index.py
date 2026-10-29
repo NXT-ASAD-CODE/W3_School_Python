@@ -33,3 +33,14 @@ if 5 > 2:
 # Example
 x = 5
 y = "Hello, World!"
+# Python has no command for declaring a variable.
+
+
+# Comments
+# Python has commenting capability for the purpose of in-code documentation.
+# Comments start with a #, and Python will render the rest of the line as a comment:
+
+# Example
+# Comments in Python:
+# This is a comment.
+print("Hello, World!")
