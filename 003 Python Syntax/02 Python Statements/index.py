@@ -19,3 +19,7 @@ print("Learning Python is fun!")
 
 # Example
 print("Hello"); print("How are you?"); print("Bye bye!")
+
+# However, if you put two statements on the same line without a separator (newline or ;), Python will give an error:
+# Example
+# print("Python is fun!") print("Really!")
