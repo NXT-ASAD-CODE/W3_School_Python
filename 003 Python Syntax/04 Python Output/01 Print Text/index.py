@@ -12,3 +12,13 @@ print("It is awesome!")
 # Example
 print("This will work!")
 print('This will also work!')
+
+# If you forget to put the text inside quotes, Python will give an error:
+# Example
+# print(This will cause an error)
+
+
+# Print Without a New Line
+# Example
+print("Hello World!", end=" ")
+print("I will print on the same line.")
